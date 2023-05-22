@@ -9,7 +9,7 @@ on:
   watch:
     types: [started]
   pull_request:
-  workflow_dispatch:
+  #workflow_dispatch:
 
 jobs:
   build:
